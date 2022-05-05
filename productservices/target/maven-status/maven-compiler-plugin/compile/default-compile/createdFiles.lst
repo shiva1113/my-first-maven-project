@@ -1,0 +1,5 @@
+com\shiva\product\dto\Product.class
+com\shiva\product\dao\ProductDAOImpl.class
+com\shiva\product\bo\ProductBO.class
+com\shiva\product\dao\ProductDAO.class
+com\shiva\product\bo\ProductBOImpl.class
